@@ -1,8 +1,8 @@
 Executando o aplicativo Spring Boot:
 
-## 1. Inicie o aplicativo : execute seu aplicativo Spring Boot usando seu método preferido.
+## 1. Inicie o aplicativo : execute seu aplicativo Spring Boot.
 ## 2. Acessando o endpoint da API :
-  # Abra seu navegador da web e navegue até o seguinte URL
+ ## Abra seu navegador da web e navegue até o seguinte URL
 
 ```
 http://localhost:8080/transfers
