@@ -34,5 +34,4 @@ http://localhost:8080/h2-console
   URL:jdbc:h2:mem:mydb
   Nome de usuário:sa
   Senha:1234
-  npm run lint
 ```
